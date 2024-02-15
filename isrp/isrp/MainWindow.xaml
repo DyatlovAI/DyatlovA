@@ -9,5 +9,6 @@
     <Grid>
         <TextBox Width="60" Height="30"></TextBox>
         <Button Content="Sudo" Width="60" Height="30" Margin="0 100 0 0" Click="Button_Click"></Button>
+        <Button Content="Sudo2" Width="60" Height="30" Margin="0 300 0 0" Click="Button_Click"></Button>
     </Grid>
 </Window>
