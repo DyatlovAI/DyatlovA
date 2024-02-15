@@ -1,0 +1,17 @@
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\bin\Debug\isrp.exe.config
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\bin\Debug\isrp.exe
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\bin\Debug\isrp.pdb
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\isrp.csproj.AssemblyReference.cache
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\1212.g.cs
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\MainWindow.g.cs
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\App.g.cs
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\isrp_MarkupCompile.cache
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\isrp_MarkupCompile.lref
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\MainWindow.baml
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\1212.baml
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\isrp.g.resources
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\isrp.Properties.Resources.resources
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\isrp.csproj.GenerateResource.cache
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\isrp.csproj.CoreCompileInputs.cache
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\isrp.exe
+C:\Users\zepa_\Desktop\mat_lib\geometric_lib\DyatlovA\isrp\isrp\obj\Debug\isrp.pdb
